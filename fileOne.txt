@@ -1,3 +1,5 @@
 first line in this file
 second line in this file
 third line added
+One local repository → many remotes
+Each remote → one specific remote repository
